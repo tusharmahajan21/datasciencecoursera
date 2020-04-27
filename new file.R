@@ -5,4 +5,6 @@ f=5
 
 x=a*b^f
 
-print("x")
+print(" %>% x")
+print ()
+
